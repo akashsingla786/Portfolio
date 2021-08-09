@@ -1,0 +1,59 @@
+nav{
+    border: 2px solid black;
+    margin-left: 20%;
+    width:60% ;
+   
+    
+}
+#body{
+    background-color: #fff1e6;
+}
+#information{
+    padding: 20px;
+    border: 2px solid #eee;
+    background-color: white;
+    margin-left: 20%;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#name{
+    text-align: center;
+    
+    margin-right: 30%;
+    margin-top: 40px;
+    border: none;
+}
+#button{
+    border: 2px solid black;
+}
+#hello{
+    display: inline-block;
+    
+}
+#aboutme{
+    padding: 20px;
+    border: 2px solid #eee;
+    background-color: white;
+    margin-left: 20%;
+    width: 60%;
+    flex-wrap: wrap;
+}
+#projects{
+    padding: 20px;
+    border: 2px solid #eee;
+    background-color: white;
+    margin-left: 20%;
+    width: 60%;
+    
+}
+
+#language{
+    padding: 20px;
+    border: 2px solid #eee;
+    background-color: white;
+    margin-left: 20%;
+    width: 60%;
+    
+}
